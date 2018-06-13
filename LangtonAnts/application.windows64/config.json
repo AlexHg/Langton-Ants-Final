@@ -1,0 +1,10 @@
+{
+    "numberOfAnts": 30,
+    "antConsentrationSquare": 20,
+    "antBorn": 1,
+    "cellSize": 4,
+    "dimX": 250,
+    "dimY":250,
+    "sizeX":1000,
+    "sizeY":1000
+}
